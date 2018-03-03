@@ -1,5 +1,7 @@
 #!/bin/env python2
 
+import numpy as np
+
 xrt_dir="./"
 
 qdp_file = open(xrt_dir+"ObsData_UnfAbsModel.qdp","r")
